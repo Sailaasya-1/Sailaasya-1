@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/57nf4oyyMmZ2L9QqJN/giphy.gif" width="200"/>
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F5240720-Office&psig=AOvVaw1V_MqaMAZLnMjRV23YrR33&ust=1755117789000000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCKDx_rmRho8DFQAAAAAdAAAAABAc" width="200"/>
 </div>
 
 <div id="badges" align="center">
