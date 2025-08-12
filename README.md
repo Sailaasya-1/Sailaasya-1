@@ -1,53 +1,57 @@
 <div id="header" align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F5240720-Office&psig=AOvVaw1V_MqaMAZLnMjRV23YrR33&ust=1755117789000000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCKDx_rmRho8DFQAAAAAdAAAAABAc" width="200"/>
+  <img src="assests/girl.gif" width="200"/>
 </div>
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/dhvani-kothari/">
+  <a href="https://www.linkedin.com/in/sailaasya/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="dhvanikothari03@gmail.com">
+  <a href="sailaasya.g@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
 </div>
 
-<h1 align="center"> 👩‍💻 Dhvani Kothari: Data Engineer | Cloud Specialist | Solutions Architect</h1>
-<h3 align="center">Harnessing the power of modern computing architectures and cloud platforms, I specialize in designing and implementing scalable data solutions. With a rich experience spanning across data engineering, cloud technologies, and big data ecosystems, I'm dedicated to optimizing data workflows and driving efficiency in complex systems.</h3>
+<h1 align="center"> 👩‍💻 Sai Laasya Gorantla</h1>
+<h3 align="center">Bridging data engineering and analytics through cloud-native tools and advanced modeling to empower data-driven strategies.
+I focus on building scalable solutions that turn complex data into clear insights using machine learning and interactive visualization.</h3>
 
 🎓 **Education**: 
-- **MS in Computer Science & Engineering** from [University at Buffalo, The State University of New York](https://www.buffalo.edu/). Specialized in Data Intensive Computing, Algorithms for Modern Computing Systems, and Machine Learning.
-- **BE in Computer Technology** from [Yeshwantrao Chavan College of Engineering](https://www.ycce.edu/).
+- **MS in Data Science** from [University of Arizona](https://www.arizona.edu/). Specialized in Data Analysis and Visualization, Data Mining, NLP, SQL/No-SQL, ML.
+
+- **BE in Civil Engineering** from [G.Pullaiah College of Engineering and Technology](https://www.gpcet.edu/).Python, DBMS, Internet of Things, C language.
 
 🚀 **Professional Experience**:
-- **Solutions Architect Intern** at [Brainchip Inc.](https://brainchip.com/): Developed FastAPI web-based GUI tools, streamlined integrated circuit scaling, and automated unit testing with Pytest and Drone.
-- **Data Engineer** at [Walmart Global Tech](https://tech.walmart.com/content/walmart-global-tech/en_us.html): Led ETL mappings on GCP, optimized PySpark pipelines, and spearheaded data migration projects.
-- **Big Data Developer** at [Capgemini](https://www.capgemini.com/): Optimized Spark applications, designed data lakes, and pioneered automation using Azure Logic Functions and Azure Data Factory.
+- **Researh Data Analyst** at [Biosphere 2](https://biosphere2.org/): Rain forest resilence - Processed 5 years of multi-tower sensor data to validate Werner's drought impacts (79% GPP decline, 50% Reco reduction) via NEE-derived flux calculations, confirming ecosystem-scale carbon flux responses.
+- **Graduate Assistant** at [Univeristy of Arizona (InfoScience)](https://infosci.arizona.edu/): Data Engineering - Streamlined course delivery for 45 students by grading 7+ assignments and enhancing materials, boosted participation by 25\% during interactive quiz sessions.
+- **Systems Engineer** at [Tata Consultancy Services](https://www.tcs.com/): British Telecom Project - Enhanced KCI service by reducing failed customer updates by 10\%. Diagnosed order flow issues through middleware log analysis in test environments, cutting QA debugging time across 5+ telecom systems.
 
-🔧 **Technical Stack**: 
-- **Languages**: Python, SQL, Java, Scala, C++, R, Bash
-- **Big Data**: Apache Kafka, Apache Hadoop, MapReduce, Databricks, ElasticSearch
-- **Cloud Platforms**: GCP, AWS, Azure
-- **DevOps**: Docker, Kubernetes, Jenkins
-- **Databases**: SQL Server, Oracle, MySQL, MongoDB, Cassandra, HBase
+**💻Programming Languages** - Python, SQL, R, Java
+
+**🗄️ Databases** - MySQL, MongoDB, Azure Data Lake Gen2
+
+**☁️ Big Data & Cloud Platforms** - Azure, Azure Databricks, Azure Data Factory, Delta Lake, DBFS, Lakehouse Architecture
+
+**⚙️ Data Processing** - PySpark, Spark SQL, Data Ingestion, Transformations, Workflow Orchestration
+
+**📊 Data Science & Analytics Tools & Libraries** - Pandas, NumPy, Jupyter, Power BI, Matplotlib, Seaborn, ggplot2, plotly, Scikit-learn
+
+**🔍 Analysis** - Data Cleaning, Feature Engineering, Data Preprocessing, Exploratory Data Analysis (EDA)
+
+**🤖 Machine Learning & NLP Frameworks** - Scikit-learn, Machine Learning, Natural Language Processing (NLP), Prompt Engineering, BeautifulSoup, Ollama, Web Scraping
 
 
-** Well my resume provides a history of all the good stuff, like my qualifications, experience, and killer sense of humor. Okay, maybe not the last one, but it's worth a shot, right? You can find my resume at - <a href="https://github.com/dhvani-k/Resume/blob/main/Dhvani_Kothari_DE_Resume.pdf" target="_blank">Resume</a>
 
-🌱 **Currently Exploring**: Sustainable and Efficient AI, Serverless Deployments, and Deep Learning.
+🕒 **Currently Exploring**: Eager to apply a strong foundation in Generative AI and LLM concepts, with hands-on experience using TensorFlow, to develop innovative and impactful solutions.
 
 **Connect with me:**
-<p align="left">
-<a href="https://linkedin.com/in/dhvanik/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhvanik/" height="30" width="40" /></a>
-<a href="https://kaggle.com/dhvani.kothari_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="dhvani.kothari_" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/kotharidk03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kotharidk03" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/dhvanikothari03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dhvanikothari03" height="30" width="40" /></a>
-</p>
+<div style="display: flex; gap: 10px; align-items: center; flex-wrap: nowrap; width: max-content;">
+<a href="https://linkedin.com/in/sailaasya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhvanik/" height="30" width="40" /></a>
+
+<a href="https://www.hackerrank.com/sailaasya_g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kotharidk03" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/Sailaasya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dhvanikothari03" height="30" width="40" /></a>
+</div>
 
 
-👇 Check out my repositories to see my hands-on projects and contributions!
+╰┈➤ Check out my repositories to see my hands-on projects and contributions!
 
 
-<!---
-dhvani-k/dhvani-k is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
