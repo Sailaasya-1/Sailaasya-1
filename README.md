@@ -12,7 +12,7 @@
   <a href="https://www.leetcode.com/Sailaasya">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Badge"/>
   <a href = "https://scholar.google.com/citations?user=UwdxnSEAAAAJ&hl=en">
-    <img src = "https://icons8.com/icon/drPiDBy9kkJ3/google-scholar" alt="Google Scholar">
+    <img src = "https://github.com/Sailaasya-1/Sailaasya-1/blob/main/image_3.png" alt="Google Scholar">
   </a>
 </div>
 
