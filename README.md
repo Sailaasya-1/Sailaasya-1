@@ -11,6 +11,8 @@
   </a>
   <a href="https://www.leetcode.com/Sailaasya">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Badge"/>
+  <a href = "https://scholar.google.com/citations?user=UwdxnSEAAAAJ&hl=en">
+    <img src = "https://icons8.com/icon/drPiDBy9kkJ3/google-scholar" alt="Google Scholar">
   </a>
 </div>
 
@@ -84,7 +86,7 @@
 
 ## 🏆 Achievements & Recognition
 
-- 📄 **ACL SemEval 2026** — Published transformer-based benchmark for AI-generated vs. human-written code detection; ranked **47th of 82 teams**
+- 📄 **ACL SemEval 2026** — Published transformer-based benchmark for AI-generated vs. human-written code detection.**
 - 🚀 **UA Forge Residency** — Selected for competitive 10-week startup residency with merit scholarship; delivered financial model to industry mentors
 - 🎖️ **Distinguished Graduate Scholar** — Recognized in top 10% of cohort for academic excellence (4.0 GPA), research, and leadership
 
