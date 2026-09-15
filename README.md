@@ -46,7 +46,7 @@
   Structured 2 years of sensor data into a validated CO₂ flux pipeline across 3 zones — surfaced a **79% decline in ecosystem productivity** post-drought and presented findings to faculty and stakeholders.
 
 - 💼 **Systems Engineer** · Tata Consultancy Services *(Aug 2022 – Dec 2023)*
-  Diagnosed a critical data pipeline failure via SQL and log analysis, redesigned transformation logic, and **cut customer update failures by 60%**.
+  Diagnosed a critical data pipeline failure via SQL and log analysis, redesigned transformation logic, and **cut customer update failures by 20%**.
 
 ---
 
